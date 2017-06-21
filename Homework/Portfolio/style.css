@@ -1,0 +1,53 @@
+
+body {
+background: rgb(200, 200, 200);
+display: inline;
+margin: 0px;
+padding: 0px;
+font-family: 'Akkurat-Bold', 'Helvetica-Neue', 'Helvetica', sans-serif; 
+font-size: 31px;
+font-weight: bold;
+line-height: 36px;
+letter-spacing: -0.2px;
+}
+
+p {
+margin: 20px;
+width: 580px;
+}
+
+a {
+color: rgb(0, 0, 0);
+text-decoration: none;
+}
+
+.underline-1 {
+text-decoration: none;
+box-shadow: inset 0 -2px 0 rgb(200, 200, 200), inset 0 -3px 0 yellow;
+}
+
+.underline-2 {
+text-decoration: none;
+box-shadow: inset 0 -2px 0 rgb(200, 200, 200), inset 0 -3px 0 blue;
+}
+
+.underline-3 {
+text-decoration: none;
+box-shadow: inset 0 -2px 0 rgb(200, 200, 200), inset 0 -3px 0 red;
+}
+
+.underline-4 {
+text-decoration: none;
+box-shadow: inset 0 -2px 0 rgb(200, 200, 200), inset 0 -3px 0 green;
+}
+
+.underline-5 {
+text-decoration: none;
+box-shadow: inset 0 -2px 0 rgb(200, 200, 200), inset 0 -3px 0 black;
+}
+
+.underline-6 {
+text-decoration: none;
+box-shadow: inset 0 -2px 0 rgb(200, 200, 200), inset 0 -3px 0 purple;
+}
+
