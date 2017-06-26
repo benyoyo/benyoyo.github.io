@@ -1,0 +1,109 @@
+.container	{
+	width: 720px;
+	margin: 0;
+	padding: 50px;
+	border-left: 6px solid #dddddd;
+	color: #444444;
+	font-family: "Lato";
+	font-weight: 100;
+	letter-spacing: 0.3px;
+	line-height: 1;
+	display: block;
+	text-align: left;
+}
+
+h1 {
+color: #DD0000;
+font-weight: 100;
+font-size: 55px;
+padding: 50 0 0 0;
+}
+
+h2 {
+font-size: 28px;
+font-weight: 100;
+line-height: 1.5;
+}
+
+h3 {
+margin-top: 60px;
+color: #cccccc;
+font-size: 35px;
+font-weight: 100;
+line-height: 0px;
+}
+
+h4 {
+font-weight: 100;
+font-size: 35px;
+line-height: 100px;
+}
+
+span {
+padding: 0px 15px 0px 0px;
+}
+
+a {
+color: #cccccc;
+font-size: 22px;
+line-height: 1.5;
+letter-spacing: 0.6px;
+text-decoration: none;
+border-bottom: 1px solid currentColor;
+}
+
+a:hover {
+color: black;
+}
+
+p {
+margin-top: 10px;
+font-size: 18px;
+line-height: 1.5;
+}
+
+.a-continue {
+font-size: 18px;
+font-weight: 700;
+letter-spacing: 0;
+color: #DD0000;
+text-decoration: none;
+display: inline;
+border-bottom: none;
+}
+
+.a-footer {
+font-size: 18px;
+font-weight: 100;
+letter-spacing: 0;
+color: #DD0000;
+text-decoration: none;
+display: inline;
+border-bottom: none;
+}
+
+
+div {
+text-align: right;
+}
+
+hr {
+display: block;
+height: 1px;
+border: 0;
+border-top: 1px solid lightgrey;
+margin: 20px 0;
+padding: 0; 
+}
+
+.grey-divider {
+color: #cccccc;
+padding: 0px 0px 0px 0px;
+
+}
+
+footer {
+margin-top: 40px;
+
+}
+

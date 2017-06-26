@@ -1,0 +1,39 @@
+.container	{
+	width: 1000px;
+	margin: 0 auto;
+	padding: 20px;
+	background: lightgrey;
+}
+
+.nav {
+	background: black;
+	color: white;
+	text-align: center;
+	padding: 10px;
+}
+
+.paragraph-1 {
+	background: rgb(255, 90, 60);
+	color: blue;
+	text-align: center;
+	padding: 30px 5px;
+	font-size:15px;
+}
+
+.paragraph-2 {
+	background: rgb(255, 90, 60);
+	color: green;
+	text-align: center;
+	padding: 30px 5px;
+	font-size:15px;
+
+}
+
+.paragraph-3 {
+	background: rgb(255, 90, 60);
+	color: yellow;
+	text-align: center;
+	padding: 30px 5px;
+	font-size:15px;
+
+}
