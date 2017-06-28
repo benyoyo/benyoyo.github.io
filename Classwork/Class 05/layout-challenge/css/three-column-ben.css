@@ -1,0 +1,44 @@
+body {
+	width: 600px;
+}
+
+.top {
+  height: 200px;
+  background-color: grey;
+}
+
+.left {
+	background-color: red;
+	width: 30%;
+	height: 200px;
+	float: left;
+}
+
+.middle {
+	background-color: blue;
+	width: 30%;
+	height: 200px;
+	float: left;
+}
+
+.right {
+	background-color: green;
+	width: 30%;
+	height: 200px;
+	float: right;
+}
+
+.clearfix:after {
+	content:"";
+	display:table;
+	clear:both;
+}
+
+.box {
+	margin: 1.5%;
+}
+
+.footer {
+  background-color: lightgrey;
+  height: 200px;
+}

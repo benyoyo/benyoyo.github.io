@@ -1,0 +1,23 @@
+
+Links:
+    #DD0000
+
+Links hover:
+    #aa0000
+
+Navigation links:
+    #dddddd
+
+Navigation links hover:
+    black
+
+Date: 
+    #cccccc
+
+Article Title
+    black
+
+Copyright
+    #bbbbbb
+
+If we were working with a real design document, you would be able to get the precise pixel values for line height, font size, margin, padding, etc. Just approximate as best you can.

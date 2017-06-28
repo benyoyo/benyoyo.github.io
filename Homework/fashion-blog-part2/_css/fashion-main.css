@@ -1,0 +1,182 @@
+.container	{
+	width: 1100px;
+	margin: 0;
+	padding: 50px;
+	border-left: 6px solid #dddddd;
+	color: #444444;
+	font-family: "Lato";
+	font-weight: 100;
+	text-align: left;
+}
+
+.header {
+	display: inline-block;
+	margin-bottom: 10px;
+}
+
+h1 {
+color: #DD0000;
+font-weight: 100;
+font-size: 55px;
+letter-spacing: 0.3px;
+line-height: 1;
+padding: 50 50 0 0;
+margin-right: 20px;
+}
+
+h2 {
+font-size: 28px;
+font-weight: 100;
+line-height: 1;
+color: grey;
+}
+
+nav {
+font-size: 5px;
+margin-top: 5px;
+margin-bottom: 50px;
+}
+
+nav a {
+display: inline-block;
+background-color: black;
+color: white;
+font-size: 22px;
+line-height: 2.5;
+letter-spacing: 0.6px;
+text-decoration: none;
+width: 180px;
+height: 60px;
+text-align: center;
+}
+
+a:hover {
+color: grey;
+}
+
+main {
+float: left;
+width: 700px;
+margin-right: 50px;
+}
+
+aside {
+float: right;
+width: 340px;
+}
+
+
+h3 {
+color: #cccccc;
+font-size: 35px;
+font-weight: 100;
+line-height: 1;
+}
+
+h4 {
+font-weight: 100;
+font-size: 35px;
+line-height: 1.5;
+margin-bottom: 10px;
+}
+
+h5 {
+font-size: 18px;
+font-weight: 700;
+letter-spacing: 0;
+color: grey;
+}
+
+
+p {
+margin-top: 25px;
+margin-bottom: 40px;
+font-size: 18px;
+line-height: 1.5;
+}
+
+.drop-cap {
+font-size: 600%;
+padding-right: 5px;
+float: left;
+color: lightgrey;
+line-height: 0.6;
+}
+
+.a-continue {
+font-size: 18px;
+font-weight: 700;
+letter-spacing: 0;
+color: #DD0000;
+text-decoration: none;
+display: inline;
+border-bottom: none;
+}
+
+.grey-text {
+color: grey;
+}
+
+.ad-space {
+	display: inline-block;
+	margin: 0 10px;
+	width: 300px;
+	height: 250px;
+	background-position:center;
+	background-size: cover;
+}
+
+.ad-1 {
+background-image: url("../img/ad.gif");
+}
+
+ul {
+	list-style: disc;
+	font-size: 20px;
+	color: grey;
+	margin-top: 20px;
+	margin-left:30px;
+}
+
+.clearfix:after {
+  content:"";
+  display:table;
+  clear:both;
+}
+
+.a-footer {
+font-size: 18px;
+font-weight: 100;
+letter-spacing: 0;
+color: #DD0000;
+line-height: 1.5;
+text-decoration: none;
+display: inline;
+border-bottom: none;
+}
+
+div {
+text-align: right;
+}
+
+hr {
+display: block;
+height: 1px;
+border: 0;
+border-top: 1px solid lightgrey;
+margin-top: 40px;
+margin-bottom: 40px;
+padding: 0; 
+}
+
+.grey-divider {
+color: #cccccc;
+padding: 0px 0px 0px 0px;
+
+}
+
+footer {
+margin-top: 10px;
+
+}
+
